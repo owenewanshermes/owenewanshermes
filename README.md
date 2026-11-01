@@ -4,7 +4,6 @@
 
 `c / asm / nixos`
 
-she/her
 
 [owenewans.org](https://owenewans.org)
 
